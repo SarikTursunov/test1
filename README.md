@@ -5,5 +5,5 @@
   <br>So, Now I know how to Link Github into VS Code
   <br>Now let's code
   <br>Below is 'scanf' function that allows user to enter digits 'int', 'float' and character to get mark
-  <br>Why I can Edit but can't compile the code?
+  <br>Why I can edit but can't compile the code?
   
