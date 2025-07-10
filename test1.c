@@ -27,5 +27,4 @@ int main() {
     printf("You entered %f\n", flnumber1);
     printf("Your mark for this task is '%c'\n", charnum1);
 
-    return 0;
 }
