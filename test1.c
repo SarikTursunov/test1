@@ -13,16 +13,19 @@ int main() {
     int intnum1;
     float flnumber1;
     char charnum1 = 'A';
-
+    printf("Enter an integer number you want: ");             // Corrected scanf usage to read an integer
     scanf("%d", &intnum1);
-    scanf("%f", &flnumber1);
-    printf("Enter the Mark you want to get. From A to E: ");
-    scanf(" %c", &charnum1); // Added space before %c to consume any leftover newline character
 
+    printf("Enter a float number with dot you want: ");                // Corrected scanf usage to read a float
+    scanf("%f", &flnumber1);
+
+    printf("Enter the mark you want to get. From A to E: "); // Corrected scanf usage to read a character
+    scanf(" %c", &charnum1);                                 // Added space before %c to consume any leftover newline character
     // Corrected scanf usage
+    
     printf("You entered %d\n", intnum1);
     printf("You entered %f\n", flnumber1);
-    printf("Your mark for this task is %c\n", charnum1);
+    printf("Your mark for this task is '%c'\n", charnum1);
 
     return 0;
 }

@@ -5,3 +5,4 @@
   <br>So, Now I know how to Link Github into VS Code
   <br>Now let's code
   <br>Below is 'scanf' function that allows user to enter digits 'int', 'float' and character to get mark
+  
