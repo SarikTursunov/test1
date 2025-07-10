@@ -1,1 +1,2 @@
-# test1
+# Test1
+Trying to connect Git to VS
