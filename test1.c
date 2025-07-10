@@ -26,5 +26,8 @@ int main() {
     printf("You entered %d\n", intnum1);
     printf("You entered %f\n", flnumber1);
     printf("Your mark for this task is '%c'\n", charnum1);
+    printf("Thank you for using this program.\n");
+    return 0;
+    
 
 }
